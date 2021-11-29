@@ -1,2 +1,3 @@
 # practice1
-my first record
+my first record 
+this is made by me
